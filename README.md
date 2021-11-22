@@ -15,7 +15,7 @@
         <img align="center" alt="sudoPedro-PHP" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain.svg">
         <img align="center" alt="sudoPedro-COMPOSER" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
         <img align="center" alt="sudoPedro-COMPOSER2" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ceylon/ceylon-original.svg">
-        <img align="center" alt="sudoPedro-COMPOSER" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
+        <img align="center" alt="sudoPedro-Codegnilter" height="44" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
       </header>
       <br>
       <br>
