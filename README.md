@@ -2,7 +2,7 @@
   <div style="display: inline_block">
     <header>
         <h1 align="center"> 
-          <img src="https://lh3.googleusercontent.com/proxy/pINBShku7PZwhFtlROf6jlETqJH-L9OPiLJ-cf2E_FH09Mhet6TFiYbDBxARedoNJDqhdI-3mC_Y4T8vcHN5Op1j">
+          <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/phpKillJava.gif">
         </h1>
         <h2> Hey you🐱‍💻</h2>
         <h3> Welcome to my php study repository! </h3>
