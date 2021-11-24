@@ -27,11 +27,11 @@
   <br>
   <footer>
       <h3>
-        <q>Lembre-se sempre, o seu foco determina a sua realidade.</q>
-        Qui-Gon Jinn
+          <q>Lembre-se sempre, o seu foco determina a sua realidade.</q>
+          Qui-Gon Jinn
       </h3>
-    <h1 align="center"> 
-        <img src="https://i.pinimg.com/originals/a9/d3/4b/a9d34bbe05ee1467383fe90eed3669b5.gif">
-    </h1>
+      <h1 align="center"> 
+          <img src="https://i.pinimg.com/originals/a9/d3/4b/a9d34bbe05ee1467383fe90eed3669b5.gif">
+      </h1>
   </footer>
 </main>
